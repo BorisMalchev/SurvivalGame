@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0aeacc8fd493ffb4e8bcf1bf3f0522ac
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 100
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ribeye
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 85941b82178d8eb418f56c22039071b7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
